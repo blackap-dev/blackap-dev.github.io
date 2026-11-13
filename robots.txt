@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blackap-dev.github.io/sitemap.xml
